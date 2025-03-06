@@ -34,7 +34,7 @@ The server is responsible for receiving the client data, performing computations
   - In the T-PSA process, the server receives data and computations from the client using `fla_gs.py` and then uses `server_gs.py` to perform calculations for the final result.
 
 
-## Running the PSA Process
+## Running the T-PSA Process
 
 ### Client-Side:
 1. **Step 1**: Run `generate_data.py` to generate the random dataset.
